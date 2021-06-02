@@ -11,6 +11,6 @@ The player is confined to the board and may move horizontally or vertically onto
 ## To start the project
 "Make re" in a terminal command and "./my_sokoban test_map"
 
-### Press 'q' to stop the game
+#### Press 'q' to stop the game
 
-### Press space bar to reset the mapin
+#### Press space bar to reset the map
